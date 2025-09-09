@@ -1,5 +1,7 @@
-Nome: myfile.txt | Tamanho: 286 bytes | Criacao: 2025-09-05 21:26:41.672433 | Modificacao: 2025-09-05 21:26:41.672433
-Nome: Oldfile.txt | Tamanho: 40 bytes | Criacao: 2025-09-05 21:26:29.684523 | Modificacao: 2025-09-05 21:26:29.684523
-Nome: myfile.txt | Tamanho: 286 bytes | Criacao: 2025-09-05 21:26:41.672433 | Modificacao: 2025-09-05 21:26:41.672433
-Nome: iloveyoufile.txt | Tamanho: 681 bytes | Criacao: 2025-09-05 21:28:04.148892 | Modificacao: 2025-09-05 21:28:04.148892
-Nome: Oldfile.txt | Tamanho: 40 bytes | Criacao: 2025-09-05 21:26:29.684523 | Modificacao: 2025-09-05 21:26:29.684523
+=== LISTAGEM DE ARQUIVOS EM home/valcann/backupsFrom ===
+Arquivo|Tamanho|Data_Criação|Data_Modificação
+----------------------------------------------
+iloveyoufile the second.txt|4,0K|2025-09-09 01:27:21.045760116 -0300|2025-09-05 21:28:04.148892000 -0300
+iloveyoufile.txt|4,0K|2025-09-05 21:27:55.276944845 -0300|2025-09-05 21:28:04.148892456 -0300
+[2025-09-09 01:29:00] REMOVENDO: iloveyoufile.txt (criado em: sex 05 set 2025 21:27:55 -03)
+[2025-09-09 01:29:00] Processamento concluído com sucesso!
