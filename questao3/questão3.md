@@ -25,7 +25,7 @@ Automatizar esse processo utilizando **Docker + GitHub Actions + Kubernetes**, j
 
 
 
-![](/home/gabriel/Desktop/projetos/chalklenge/challenge/questão 3/img.png)
+![](https://github.com/gabriel-ferreira-da-silva/challenge/blob/main/questao3/img.png?raw=true)
 
 
 

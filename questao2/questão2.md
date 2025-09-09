@@ -1,8 +1,8 @@
 # SEGUNDA QUESTÃO 🖥️🤖🗃️
 
-A automação dos arquivos foi implementada em python e os diretórios especificados foram mockados dentro desta pasta da seguinte forma:
+Nesta branch a automação dos arquivos foi implementada em python e os diretórios especificados foram mockados dentro desta pasta da seguinte forma:
 
-![](/home/gabriel/Desktop/projetos/chalklenge/challenge/questão2/img.png)
+![](https://github.com/gabriel-ferreira-da-silva/challenge/blob/main/questao2/img.png?raw=true)
 
 No arquivo AutoFile está  a classe de mesmo nome. Essa classe contem variáveis e implementa métodos que realizam as ações especificadas.
 
@@ -32,3 +32,4 @@ Por fim o script pode ser executado fazendo:
 python autoscript.py
 ```
 
+Para ver a implementação do script em shell vá para a branch questa2-with-shell.
