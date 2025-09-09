@@ -25,11 +25,15 @@ Automatizar esse processo utilizando **Docker + GitHub Actions + Kubernetes**, j
 
 
 
+Um primeiro rascunho do fluxograma seria:
+
+
+
 ![](https://github.com/gabriel-ferreira-da-silva/challenge/blob/main/questao3/img.png?raw=true)
 
 
 
-Sobre as ferramentas de CI/CD e DevOps, pode-se adotar tanto alternativas **open source**, como **Kubernetes** e **Docker**, quanto aderir à infraestrutura da **AWS**.
+Porem precisamos decir sobre as ferramentas de CI/CD e DevOps, pode-se adotar tanto alternativas **open source**, como **Kubernetes** e **Docker**, quanto aderir à infraestrutura da **AWS**.
 
 As soluções open source possuem vantagens como **customização, independência de fornecedor e ausência de custos de licenciamento**. No entanto, exigem maior esforço operacional, equipe especializada e geram maior complexidade na manutenção.
 
@@ -40,6 +44,10 @@ Dessa forma, recomendaria a adoção da **infraestrutura AWS**, utilizando os se
 - **Amazon ECS ou EKS**: para orquestração de containers, garantindo ambientes consistentes entre homologação e produção.
 - **AWS CodePipeline + CodeBuild**: para automatizar as etapas de build, testes, lint e deploy.
 - **AWS Secrets Manager**: para armazenamento seguro e centralizado de variáveis sensíveis, como chaves de API e credenciais.
+
+
+
+![](https://github.com/gabriel-ferreira-da-silva/challenge/blob/main/questao3/img2.png?raw=true)
 
 Essa abordagem garante um **pipeline de CI/CD robusto, seguro e escalável**, alinhado às melhores práticas de DevOps.
 
