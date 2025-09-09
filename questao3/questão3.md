@@ -23,8 +23,6 @@ O **atraso de uma semana** entre a homologação e o deploy manual em produção
 
 Automatizar esse processo utilizando **Docker + GitHub Actions + Kubernetes**, juntamente com ferramentas da AWS como **CodePipeline**, torna o fluxo **menos suscetível a erros** e reduz significativamente o tempo entre a homologação e o deploy em produção. Isso garante que a versão testada em homologação seja rapidamente disponibilizada em produção de forma segura e consistente.
 
-
-
 Um primeiro rascunho do fluxograma seria:
 
 
@@ -48,6 +46,8 @@ Dessa forma, recomendaria a adoção da **infraestrutura AWS**, utilizando os se
 
 
 ![](https://github.com/gabriel-ferreira-da-silva/challenge/blob/main/questao3/img2.png?raw=true)
+
+
 
 Essa abordagem garante um **pipeline de CI/CD robusto, seguro e escalável**, alinhado às melhores práticas de DevOps.
 

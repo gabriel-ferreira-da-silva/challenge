@@ -16,7 +16,7 @@ class AutoFile:
         self.timewindow = datetime.now() - timedelta(days=3)
 ```
 
-O arquivo autoscript.py chama a classe e executa sua principal função. Antes de rodar é possivel alterar os parâmetros do classe como a janela de tempo para excluir os arquivos. Se nada for alterado a janela será de 3 dias.
+O arquivo autoscript.py chama a classe e executa sua principal função. Antes de rodar é possível alterar os parâmetros da classe como a janela de tempo para excluir os arquivos. Se nada for alterado a janela será de 3 dias.
 
 ```
 
@@ -32,4 +32,4 @@ Por fim o script pode ser executado fazendo:
 python autoscript.py
 ```
 
-Para ver a implementação do script em shell vá para a branch questa2-with-shell.
+Para ver a implementação do script em shell vá para a branch questa2-with-shell. 
