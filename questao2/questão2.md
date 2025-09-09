@@ -1,6 +1,6 @@
 # SEGUNDA QUESTÃO 🖥️🤖🗃️
 
-nesta A automação dos arquivos foi implementada em shell script do linux e os diretórios especificados foram mockados dentro desta pasta da seguinte forma:
+Nesta branch a automação dos arquivos foi implementada em shell script do linux e os diretórios especificados foram mockados dentro desta pasta da seguinte forma:
 
 ![](https://github.com/gabriel-ferreira-da-silva/challenge/blob/questao2-with-shell/questao2/img.png?raw=true)
 
